@@ -3,7 +3,22 @@ username : js
 password : 1111
 
 
-
 User 2:
 username : jd
 password : 2222
+
+
+Transfer :
+  Enter user name ( js / jd)  
+  Enter  Amount  
+It will take 3 seconds to transfer for real time processing feel.
+
+Loan : 
+  Heighest amount of loan that can be taken will be 
+  Loan <= highest transaction * 10
+It will take 3 seconds to transfer for real time processing feel.
+
+
+Delete Account:
+  Enter username ( js or jd ).
+  Enter pwd ( 1111 or 2222 ).
